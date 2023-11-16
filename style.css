@@ -2,53 +2,66 @@ body {
     background-color: lightgrey;
 }
 
+nav a {
+    text-decoration: none;
+
+    
+}
+nav ul {
+    text-align: center;
+    padding: 10px;
+}
+nav {background-color: lightgrey;
+  padding: 10px;}
+
 
 nav li {
     display: inline;
     border: 3px solid black;
     padding: 10px;
     margin: 10px;
+
 }
 
 .navbar a:hover {
-    background: #ddd;
+    background-color: #ddd;
     color: black;
   }
 .home {
     background-color: lightblue;
 }
 .home:hover {
-    background-color: blue;
+    background-color: lightgray;
     transition: 0.5s;
 }
 .aboutme {
     background-color: lightblue;
 }
 .aboutme:hover {
-    background-color: blue;
+    background-color: lightgray;
     transition: 0.5s;
 }.firstpage {
     background-color: lightblue;
 }
 .firstpage:hover {
-    background-color: blue;
+    background-color: lightgray;
     transition: 0.5s;
 }.privpolicy {
     background-color: lightblue;
 }
 .privpolicy:hover {
-    background-color: blue;
+    background-color: lightgray;
     transition: 0.5s;
 }.recipeindex{
     background-color: lightblue;
 }
 .recipeindex:hover {
-    background-color: blue;
+    background-color: lightgray;
     transition: 0.5s;
 }.shop {
     background-color: lightblue;
 }
 .shop:hover {
-    background-color: blue;
+    background-color: lightgray;
     transition: 0.5s;
 }
