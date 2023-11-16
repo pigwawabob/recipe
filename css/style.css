@@ -1,0 +1,54 @@
+body {
+    background-color: lightgrey;
+}
+
+
+nav li {
+    display: inline;
+    border: 3px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+
+.navbar a:hover {
+    background: #ddd;
+    color: black;
+  }
+.home {
+    background-color: lightblue;
+}
+.home:hover {
+    background-color: blue;
+    transition: 0.5s;
+}
+.aboutme {
+    background-color: lightblue;
+}
+.aboutme:hover {
+    background-color: blue;
+    transition: 0.5s;
+}.firstpage {
+    background-color: lightblue;
+}
+.firstpage:hover {
+    background-color: blue;
+    transition: 0.5s;
+}.privpolicy {
+    background-color: lightblue;
+}
+.privpolicy:hover {
+    background-color: blue;
+    transition: 0.5s;
+}.recipeindex{
+    background-color: lightblue;
+}
+.recipeindex:hover {
+    background-color: blue;
+    transition: 0.5s;
+}.shop {
+    background-color: lightblue;
+}
+.shop:hover {
+    background-color: blue;
+    transition: 0.5s;
+}
